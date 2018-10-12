@@ -8,4 +8,9 @@ public class B
 		int b = a.a(2);
 		System.out.println(b);
 	}
+	
+	public void pt(int a)
+	{
+		System.out.println(a);
+	}
 }
