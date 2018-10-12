@@ -6,6 +6,7 @@ public class A
 	
 	public int a(int n)
 	{
+		a *= 2;
 		return a*n;
 	}
 }
